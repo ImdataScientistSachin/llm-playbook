@@ -1,0 +1,5 @@
+{"question": "What is the main purpose of this document?", "relevant_doc_ids": ["chunk_001", "chunk_002"]}
+{"question": "What methodology is described in section 2?", "relevant_doc_ids": ["chunk_015"]}
+{"question": "What are the key findings or conclusions?", "relevant_doc_ids": ["chunk_042", "chunk_043"]}
+{"question": "Who are the intended users or audience?", "relevant_doc_ids": ["chunk_003"]}
+{"question": "What limitations or caveats are mentioned?", "relevant_doc_ids": ["chunk_038"]}
